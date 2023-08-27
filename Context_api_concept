@@ -1,0 +1,2 @@
+react context api allows you to easily access data at differnt levels of the component tree,
+without passing prop to every levels.
